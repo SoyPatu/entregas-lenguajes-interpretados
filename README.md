@@ -29,4 +29,7 @@ Mis contactos:
 
 ---
 
-# entregas-lenguajes-interpretados
+## Entregables
+
+- [Práctica 1](apuntes.md)
+
