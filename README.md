@@ -31,6 +31,6 @@ Mis contactos:
 
 ## Entregables
 
-- [Práctica 1](apuntes.md)
+- [Práctica 1](mds/apuntes.md)
 
-- [Práctica 2](ramas-fusiones.md)
+- [Práctica 2](mds/ramas-fusiones.md)
