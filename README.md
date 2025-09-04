@@ -25,7 +25,7 @@ Mis contactos:
 
 - Correo Electrónico: patriciof.student@gmail.com
 
-- [Mi Cara:](https://drive.google.com/u/0/drive-viewer/AKGpihYUxV9-KFAlOzVyji-3-32ceLfkU3utUhgxu8DyZY7avdSwfCnPmpPKNpA_be-Rkn1SMtx6mqkxFq2dZ5EOGklatqvVfl6XXpc=s1600-rw-v1)
+- ![Mi Cara:](./assets/Mi%20Cara.jpeg)
 
 ---
 
