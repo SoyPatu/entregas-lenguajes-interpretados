@@ -19,8 +19,6 @@ Mis contactos:
 
 - [Instagram](https://www.instagram.com/soypatu_/)
 
-- [Comisiones Abiertas](https://www.instagram.com/p/DMyo6lxpOGD/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
-
 - [PayPal](https://www.paypal.com/paypalme/SoyPatus)
 
 - Correo Electrónico: patriciof.student@gmail.com
