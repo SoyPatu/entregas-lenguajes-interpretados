@@ -95,7 +95,7 @@ Para poner _**negrita y cursiva**_ debes de encerrar la palabra entre doble aste
 ---
 >- Yo solo se que no se nada- Sócrates
 
-![CATALYST](https://pbs.twimg.com/profile_images/1956930925473812480/i3glmaMT_400x400.jpg)
+![CATALYST](https://th.bing.com/th/id/R.eadc3138bfcc7e88f56fd33d214fe035?rik=wgUMmw5KRR4rrg&pid=ImgRaw&r=0)
 
 [Visita la web de AMERIKE](https://fortnite.gg/img/items/458/lego.png?6)
 
