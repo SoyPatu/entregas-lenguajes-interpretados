@@ -33,4 +33,5 @@ Mis contactos:
 
 - [Práctica 2](mds/ramas-fusiones.md)
 
+- [Práctica 3](mds/etiquetas.md)
 
