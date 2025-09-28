@@ -37,5 +37,6 @@ Mis contactos:
 
 - [Práctica 4](mds/primer-parcial.md)
 
-- [Práctica 6](https://soypatu.github.io/entregas-lenguajes-interpretados/practica6.html
-)
+- [Práctica 6](https://soypatu.github.io/entregas-lenguajes-interpretados/practica6.html)
+
+- [Práctica 7](https://SoyPatu.github.io/entregas-lenguajes-interpretados/pong.html)
