@@ -37,3 +37,6 @@ Mis contactos:
 
 - [Práctica 4](mds/primer-parcial.md)
 
+- [Práctica 6](docs/practica6.html)
+
+
