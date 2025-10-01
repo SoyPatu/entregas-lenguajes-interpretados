@@ -41,7 +41,7 @@ git init
 
 ####	9. ¿Cómo creas un repositorio en GitHub?
 Desde la página de GitHub, en la parte superior derecha va haber un símbolo de "+". Lo presionas y de opciones ahi te va a dar la opción de crear un nuevo repositorio.
-![Mi Cara:](/assets/Crear_Un_Repositorio.jpg)
+![repo:](/assets/Crear_Un_Repositorio.jpg)
 
 #### 10. ¿Cómo vinculas un repositorio local de Git con uno remoto en GitHub? 
 ``` bash
